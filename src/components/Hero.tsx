@@ -15,7 +15,8 @@ export default function Hero() {
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
             Premium Apple devices.
           </h1>
-          <h1><span className="text-yellow-600"> No guesswork.</span>
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+          <span className="text-yellow-600"> No guesswork.</span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-700 mb-10 leading-relaxed max-w-3xl mx-auto">
             We source from vetted U.S. channels and verify every device. Transparent grading, fair pricing, and fast global shipping.
